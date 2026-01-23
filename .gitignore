@@ -16,7 +16,6 @@ secrets*
 # references/projects.md
 
 # IDE and editor
-.vscode/
 .idea/
 *.swp
 *.swo

@@ -25,9 +25,12 @@ This repository provides a structured framework for Claude Code (or any LLM with
 ## Prerequisites
 
 - [Claude Code CLI](https://claude.ai/code) - Anthropic's official CLI tool
+- **Claude Pro ($20/mo) or Max ($100-200/mo) subscription** - Required for Claude Code access
 - [Claude in Chrome Extension](https://chromewebstore.google.com/detail/claude-in-chrome/) - For browser automation (optional but recommended)
 - Chrome browser (if using browser automation)
 - GitHub CLI (`gh`) - For repository management
+
+> **Note:** This project currently requires a paid Claude subscription. A local/open-source LLM option is planned for future releases to make this accessible to everyone.
 
 ## Quick Start
 
