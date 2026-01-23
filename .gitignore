@@ -1,0 +1,68 @@
+# Environment and secrets
+.env
+.env.local
+.env.*.local
+*.env
+credentials*
+secrets*
+*_secret*
+*.key
+*.pem
+
+# Personal information (add if you want to keep your filled templates private)
+# Uncomment these if you fork and fill in your personal data
+# references/personal_details.md
+# references/JOB_APPLICATION_CONTEXT.md
+# references/projects.md
+
+# IDE and editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+env/
+.venv/
+
+# Node (if any JS tooling is used)
+node_modules/
+npm-debug.log
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+
+# Backup files
+*.bak
+*.backup
+
+# Large binary files (uncomment if you don't want to track resumes)
+# *.pdf
+
+# Application-specific
+# Uncomment to ignore generated files:
+# cover_letters/*.txt
+# ranked_jobs/*.csv
+# outreach_emails/*.txt
